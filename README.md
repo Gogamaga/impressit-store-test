@@ -21,6 +21,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    username: 'emilys'
    password: 'emilyspass'
    ```
+   
+# Brief
+1. ### Requirements Analysis
+   I carefully reviewed the task to understand it's goals and main requirements. This helped define the necessary functionality, break the task into stages, and estimate the time required for completion.
+2. ### Project Structure Planning
+   I designed the basic architecture of the application and identified the necessary libraries and tools best suited for implementing the functionality. To make the approach more realistic, I found a suitable fake API.
+3. ### Implementation
+   I started with the basic framework of the app (navigation, main components). The first step was to implement authentication. I gradually added functionality, testing each stage thoroughly. I used modern approaches like hooks and a state manager (Redux) to ensure clean and maintainable code.
+4. ### Testing:
+   I tested the app on both iOS and Android platforms, as well as in various usage scenarios, to ensure stable performance. Additionally, I reviewed the code for errors and optimized it to make it more readable.
 
 In the output, you'll find options to open the app in a
 
